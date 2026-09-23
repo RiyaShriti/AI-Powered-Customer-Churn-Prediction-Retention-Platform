@@ -37,7 +37,7 @@ import "./styles.css";
    API CONFIGURATION
 ============================================================ */
 
-const API_BASE_URL = "http://127.0.0.1:8001/api";
+const API_BASE_URL = "https://ai-powered-customer-churn-prediction-vq1y.onrender.com/api";
 
 const PREDICT_URL = `${API_BASE_URL}/predict`;
 const HISTORY_URL = `${API_BASE_URL}/history`;
