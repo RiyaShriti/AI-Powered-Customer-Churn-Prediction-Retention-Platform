@@ -643,6 +643,14 @@ The system integrates:
 
 The platform helps analyze customer information, estimate churn probability, classify customer risk, provide retention recommendations, and maintain prediction history through an interactive web dashboard.
 
+### 🚀 Live Demo
+
+👉 [Open Live Application](https://ai-powered-customer-churn-predictio.vercel.app/)
+
+### 🔗 Backend API
+
+👉 [FastAPI Backend](https://ai-powered-customer-churn-prediction-vq1y.onrender.com/)
+
 ## 👩‍💻 Author
 
 **Riya Shriti**
